@@ -13,11 +13,10 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **react netiv , MpngoDb**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I'm a hard worker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
