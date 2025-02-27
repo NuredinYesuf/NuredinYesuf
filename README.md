@@ -2,8 +2,8 @@
 <h1 align="center">  Nuredin yesuf </h1>
 
 
-<h3 align="center"> FullStack Developer </h3>
-<h4 align="center"> FullStack Developer </h4>
+<h3 align="center"> Software Developer | AI Engineer </h3>
+<h4 align="center"> With over five years of experience in developing high-quality web and mobile applications, I specialize in building scalable, user-friendly digital solutions. My expertise spans full-stack web development, UI/UX design, and mobile app deployment. Additionally, I have extensive experience in AI applications, where I have trained and modeled AI features to enhance automation, security, and user experience. Passionate about creating innovative, accessible, and cutting-edge technology solutions. </h4>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
