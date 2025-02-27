@@ -3,7 +3,10 @@
 
 
 <h3 align="center"> Software Developer | AI Engineer </h3>
-<h4 align="center"> With over five years of experience in developing high-quality web and mobile applications, I specialize in building scalable, user-friendly digital solutions. My expertise spans full-stack web development, UI/UX design, and mobile app deployment, ensuring seamless and engaging user experiences. I have worked with various modern technologies, frameworks, and cloud platforms to develop robust and efficient applications tailored to business needs.
+<h4 align="center"> With over five years of experience in developing high-quality web and mobile applications, I specialize in building scalable, user-friendly digital solutions. My expertise spans full-stack web development, UI/UX design, and mobile app deployment, ensuring seamless and engaging user experiences. I have worked with various modern technologies, frameworks, and cloud platforms to develop robust and efficient applications tailored to business needs. 
+<br>
+<br>
+
 
 Additionally, I have extensive experience in AI applications, where I have trained and modeled AI features to enhance automation, security, and user experience. My work in AI includes developing intelligent systems, facial recognition models, and data-driven solutions that improve efficiency and decision-making. I am passionate about staying ahead of industry trends, continuously learning new technologies, and delivering cutting-edge solutions. My goal is to create innovative, accessible, and high-performing applications that drive meaningful impact in the tech industry. </h4>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
