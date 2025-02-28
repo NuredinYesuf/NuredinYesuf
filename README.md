@@ -11,13 +11,14 @@
 Additionally, I have extensive experience in AI applications, where I have trained and modeled AI features to enhance automation, security, and user experience. My work in AI includes developing intelligent systems, facial recognition models, and data-driven solutions that improve efficiency and decision-making. I am passionate about staying ahead of industry trends, continuously learning new technologies, and delivering cutting-edge solutions. My goal is to create innovative, accessible, and high-performing applications that drive meaningful impact in the tech industry. </h4>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+< ## p>
 
 - 🔭 I’m currently working on **MERN Web App**
 
 - 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **react netiv , MongoDb**
-
+_</p>
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
